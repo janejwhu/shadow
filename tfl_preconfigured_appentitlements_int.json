@@ -129,7 +129,7 @@
                     },
                     {
                         "id": "73d49226-b5c0-42f0-b918-acd20e8a22d8",
-                        "state": "PreConsented",
+                        "state": "NotInstalled",
                         "authorization": {
                             "permissions": {
                                 "resourceSpecific": [
@@ -147,7 +147,7 @@
                     },
                     {
                         "id": "6855e072-111c-4f70-9312-1bb0cf3beb1d",
-                        "state": "PreConsented",
+                        "state": "NotInstalled",
                         "authorization": {
                             "permissions": {
                                 "resourceSpecific": [
@@ -165,7 +165,7 @@
                     },
                     {
                         "id": "1820aede-4323-4996-825e-08f059160995",
-                        "state": "PreConsented",
+                        "state": "NotInstalled",
                         "authorization": {
                             "permissions": {
                                 "resourceSpecific": [
